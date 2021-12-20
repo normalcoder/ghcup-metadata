@@ -2069,9 +2069,9 @@ ghcupDownloads:
               dlHash: 717d4246a8b407a807048ce6eddb2785aca2e4c73b6b634c01e1726f42d539a1
           Darwin:
             unknown_versioning:
-              dlUri: https://downloads.haskell.org/~ghc/9.2.1/ghc-9.2.1-aarch64-apple-darwin.tar.xz
-              dlSubdir: ghc-9.2.1-aarch64-apple-darwin
-              dlHash: 356b99081ae38ded43b78840d673e8c782e0088e9a2aea0e19faaf677ccb54cf
+              dlUri: https://gitlab.com/normalcoder1/ghc-bins/-/raw/main/ghc-9.2.1-aarch64-apple-darwin.tar.xz
+              dlSubdir: ghc-9.2.1
+              dlHash: 4fbb1c4dd01d80e0364436b395e7636dc93c5208e25cf0bff90cea7a8b94aef6
         A_ARM:
           Linux_UnknownLinux:
             unknown_versioning:
